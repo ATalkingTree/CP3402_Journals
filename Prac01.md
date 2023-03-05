@@ -6,9 +6,12 @@
 This week I built a website using Bootstrap CSS frameworks, and hosted that website using Github Pages and Microsoft Azure. I also watched some LinkedIn learning videos about web design basics.
 
 # Resources/Links
-https://getbootstrap.com/docs/5.2/getting-started/introduction/
-https://pages.github.com/
-https://youtu.be/iQN9jFqstt8
+https://getbootstrap.com/docs/5.2/getting-started/introduction/  
+
+https://pages.github.com/  
+
+https://youtu.be/iQN9jFqstt8  
+
 https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245
 
 # Estimated Hours
