@@ -26,8 +26,11 @@ PHP: modify the functionality of the parent theme. I can use this to add/modify/
 Having both file separated make it easier to change one without affecting the other, allowing easier change and greater control than having them together in one file. 
 
 # Career/Employability/Learning Insights
+Professionals usually have different and separated developing environment to make sure all the changes does not affect the live site until they are sure about the change. This is kinda the same with child theme, we want to make changes without modifying the parent theme that is already working fine. This can save time and money, as well as prevent long-term damage to the business if the live site is breaking. 
 
+Also, backing up website is very important in case the server crashes, the site got hacked, or other unforseen events. A backup can quickly restore it to a previous state quickly, reducing the risk of downtime and user fustration.
 
+Both of the above are good practice to use no matter what job I do or where I work.
 
 # Set Up Local Environment
 1. Use WP Migrate Lite plugin (https://wordpress.org/plugins/wp-migrate-db/) to export my current live site to a zip file. In that zip file, it has my wp-content folder (which include all my media uploads, themes and plugins), and my database.
