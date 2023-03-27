@@ -31,6 +31,18 @@ Having both file separated make it easier to change one without affecting the ot
 
 # Set Up Local Environment
 1. Use WP Migrate Lite plugin (https://wordpress.org/plugins/wp-migrate-db/) to export my current live site to a zip file. In that zip file, it has my wp-content folder (which include all my media uploads, themes and plugins), and my database.
+
+![image](https://user-images.githubusercontent.com/88971553/227959577-c1ef63e2-ebde-4726-9f49-395a6c62d48e.png)
+
+![image](https://user-images.githubusercontent.com/88971553/227959801-682099e5-204a-4ef2-9052-d35adbc0b62c.png)
+
+![image](https://user-images.githubusercontent.com/88971553/227959334-7dcc462f-07dc-42c0-ab54-fce0a160b5f1.png)
+
 2. Download and install Local (https://localwp.com/). Local is an app use to set up and manage a local development environment on my own computer without using web server or hosting account. 
 3. Import my site by adding the zip file generated from step 1 into Local
+
+![image](https://user-images.githubusercontent.com/88971553/227959949-13cc6bcc-0f83-4a4f-919f-0003c54ea694.png)
+
+![image](https://user-images.githubusercontent.com/88971553/227960384-21341a98-32b2-4225-a1ad-ca83c1514e85.png)
+
 4. Enjoy my newly created local environment.
