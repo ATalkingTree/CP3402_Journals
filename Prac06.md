@@ -1,20 +1,34 @@
-This is a "learning journal" not just a record of all the things you did in the subject. So, if you spent 3 hours fixing an error or designing a site, you don't put that here. But if while fixing the error, you decided to learn more about the issue through training, then that goes in your learning journal.
 
-# Week 6 - Project/client introduction, group project management
-https://github.com/CP3402/subject/wiki/Calendar#week-6---projectclient-introduction-group-project-management
+# Week 7 - PHP Programming
+https://github.com/CP3402/subject/wiki/Calendar#week-7---php-programming
 
 # Learning Activities
-The "Learning Activities" section is not a general catch-all for things you did, it is only for recording explicit learning activities. Things like doing the prac, solving a problem, making a site... are NOT to go here. Watching a learning course, doing a tutorial, getting expert advice, going to a seminar... are all activities with the explicit purpose of learning; these go here.
+This week I read through the transcript of PHP learning course on LinkedIn, watch through a youtube playlist about a PHP course on YouTube, and getting ready for the group assignment by setting up the necessary tools
 
 # Resources/Links
-Think of this as a useful resource for yourself. If you find a good learning resource, include the link so that weeks later, you can look back in your journal and find it easily again.
+Learning PHP [(LinkedIn Learning)](https://www.linkedin.com/learning/learning-php-2/)
+
+Good PHP summary in 15 minutes but a bit outdated [(Youtube)](https://youtu.be/ZdP0KM49IVk)
+
+Good PHP course with bite-size video [(Youtube playlist)](https://youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih)
 
 # Estimated Hours
-Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time.
+6 hours
 
 # Content Insights
+PHP is an embedded language, meaning that it got mixed or embedded in HTML markup. It is also a server-side technology, which means the PHP code stays on the server, and after it has been processed, it sends back the resulting HTML to the client's browser. 
+
+PHP helps improve security of web applications because the client does not have direct access to the code, making it more difficult for malicious users to exploit vulnerabilities in the code.
+
+PHP allows developers to create dynamic web pages because it generates contents dynamically based on various conditions and inputs. PHP also making it easy to connect to and interact with databases to retrieve, store, and manipulate data. This capability is crucial for creating dynamic web applications
+
+Teamwork tools:
+
+ * Slack channel: [Slack](https://app.slack.com/client/T0C3E7EP2/G0PC1RR17)
+ * Github repo: [Github](https://github.com/cp3402-students/project-the-hateful-eight)
+ * Trello board: [Trello](https://trello.com/b/bBNlYnN4/the-hateful-eights-project-planning)
+
+Contribution: Gathering group member, suggest using discord instead of slack, setting up task cards in trello, setting up meeting time and place, working on starter theme
 
 # Career/Employability/Learning Insights
-The first few sections can be brief, but the last two sections require you to reflect, think and write clearly what your insights were. Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks.
-
-Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
+This week linkedin videos are very long and boring, so I read the transcript and summarize them while listening to music instead of watching them. After that, I then fact check again by scrubbing quickly through the videos and using google. I found out that this method helped me a lot to get through this week's videos
